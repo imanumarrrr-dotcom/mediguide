@@ -1,12 +1,11 @@
-# Recommended runtime: Python 3.12 on Windows/macOS/Linux
-streamlit==1.41.1
-numpy==1.26.4
-pyarrow==18.1.0
-langchain==0.3.14
-langchain-core==0.3.29
-langchain-community==0.3.14
-langchain-openai==0.2.14
-openai==1.59.7
-pydantic==2.10.4
-python-dotenv==1.0.1
-reportlab==4.2.5
+streamlit
+numpy
+pyarrow
+langchain
+langchain-core
+langchain-community
+langchain-openai
+openai
+pydantic
+python-dotenv
+reportlab
